@@ -989,6 +989,6 @@ export default {
     },
   ],
   metadata: {
-    address: 'MoonCVVNZFSYkqNXP6bxHLPL6QQJiMagDL3qcqUQTrG',
+    address: 'Moon4hEteqb69Pyjg7J8ajXzwdGE6wf9fjr3n3sdP4C',
   },
 };
