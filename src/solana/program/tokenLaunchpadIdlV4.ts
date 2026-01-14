@@ -1,5 +1,5 @@
 export const IDL_V4 = {
-  address: '9oZhKSzHrr3z1mm2Z4iutf8koU7FjcTpGRqkpAFYWQYN',
+  address: 'Moon4hEteqb69Pyjg7J8ajXzwdGE6wf9fjr3n3sdP4C',
   metadata: {
     name: 'tokenLaunchpad',
     version: '0.1.0',
