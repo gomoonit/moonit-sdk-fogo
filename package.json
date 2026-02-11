@@ -1,6 +1,6 @@
 {
   "name": "@moonit/sdk-fogo",
-  "version": "0.0.4-alpha.1",
+  "version": "0.0.5-alpha.1770755028",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",
   "scripts": {
@@ -8,9 +8,10 @@
     "watch": "tsc --watch",
     "test": "jest",
     "lint": "eslint 'src/**/*.{js,ts}'",
-    "format": "prettier --write 'src/**/*.{js,ts,json,md}'"
+    "format": "prettier --write 'src/**/*.{js,ts,json,md}'",
+    "prepublishOnly": "rm -rf dist && npm run build"
   },
-  "repository": "git@github.com:@gomoonit/moonit-sdk-fogo",
+  "repository": "https://github.com/gomoonit/moonit-sdk-fogo",
   "author": "https://t.me/+857VprHCIgpjZjRk",
   "license": "MIT",
   "devDependencies": {
